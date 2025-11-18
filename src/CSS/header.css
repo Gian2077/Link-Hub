@@ -1,0 +1,9 @@
+header {
+    background-color: var(--background-color-header);
+    padding: var(--padding-m);
+}
+@media screen and (max-width: 500px) {
+    header {
+        padding: var(--padding-s);
+    }
+}
