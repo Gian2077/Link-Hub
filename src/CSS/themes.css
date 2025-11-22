@@ -1,15 +1,15 @@
 :root {
-    --background-color-body: #000;
-    --background-color-disabled: #222;
-    --background-color-footer: #111;
-    --background-color-header: #111;
-    --background-color-main: #000;
-    --background-color-link: #111;
-    --border-color-link: #AAA;
-    --color-disabled: #CCC;
-    --color-highlight: #FFF;
-    --color-icon: #FFF;
-    --color-link: #FFF;
-    --color-text: #CCC;
-    --color-title: #FFF;
+  --background-color-body: #000;
+  --background-color-disabled: #222;
+  --background-color-footer: #111;
+  --background-color-header: #111;
+  --background-color-main: #000;
+  --background-color-link: #111;
+  --border-color-link: #aaa;
+  --color-disabled: #ccc;
+  --color-highlight: #fff;
+  --color-icon: #fff;
+  --color-link: #fff;
+  --color-text: #ccc;
+  --color-title: #fff;
 }
